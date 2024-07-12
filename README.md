@@ -1,8 +1,8 @@
 # Data & Analytics Researcher
 
 ### Education
-University of Massachusetts Amherst. B.A. Economics
-Georgia Institute of Technology, M.S. Analytics (prospective)
+B.A. Economics | University of Massachusetts Amherst
+M.S. Analytics | Georgia Institute of Technology (prospective)
 
 ### Work Experience
 Researcher @ Forrester Research
