@@ -11,54 +11,68 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+M.S. in Analytics, Georgia Institute of Technology, December 2026 (expected)
+* Coursework: Introduction to Analytics Modeling (R), Business Fundamental for Analytics
+B.A. in Economics, University of Massachusetts at Amherst, May 2016
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Researcher | Forrester
+July 2022 - Present
+* Description
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Associate Consultant, Content Marketing | Forrester
+Apr 2021 - Jul 2022
+* Description
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Sr. Research Associate | Forrester
+Mar 2018 - Apr 2021
+* Description
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Analysis & Modeling
+* Advanced
+  * Excel
+* Proficient
+  * R
+  * SPSS
+* Intermediate
+  * SQL
+* Basic
+  * Stata
+  * Arena
 
-Publications
+Research Methods
+* Survey analysis & crosstabluation (Qualtrics, Marketsight)
+* Survey design & expert interviewing
+* Statistical inference
+* EDA
+
+Data Visualization
+* PowerPoint
+* R tidyverse (ggplot2)
+* Power BI/Tableau (basic)
+
+Programming
+* Python (basic)
+* MATLAB (basic)
+
+Domain Knowledge
+* Data leadership strategy
+* Enterprise data/AI applications
+* AI/ML frameworks
+* Generative AI & LLMs
+* Data/AI ethics
+
+Professional
+* Insights communication & data storytelling
+* Stakeholder management
+* Project management
+* Thought leadership
+* Research methods & design
+* Adaptability to new tools & techniques
+
+Activities & Organizations
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Women in Data Science (WiDS)
