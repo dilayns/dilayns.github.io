@@ -13,39 +13,34 @@ Education
 ======
 M.S. in Analytics, Georgia Institute of Technology, December 2026 (expected)
 * Coursework: Introduction to Analytics Modeling (R), Business Fundamental for Analytics
+
 B.A. in Economics, University of Massachusetts at Amherst, May 2016
 
 Work Experience
 ======
 Researcher | Forrester
-July 2022 - Present
+* July 2022 - Present
 * Description
 
 Associate Consultant, Content Marketing | Forrester
-Apr 2021 - Jul 2022
+* Apr 2021 - Jul 2022
 * Description
 
 Sr. Research Associate | Forrester
-Mar 2018 - Apr 2021
+* Mar 2018 - Apr 2021
 * Description
   
 Skills
 ======
 Analysis & Modeling
-* Advanced
-  * Excel
-* Proficient
-  * R
-  * SPSS
-* Intermediate
-  * SQL
-* Basic
-  * Stata
-  * Arena
+* Advanced: Excel
+* Proficient: R, SPSS
+* Intermediate: SQL
+* Basic: Stata, Arena
 
 Research Methods
 * Survey analysis & crosstabluation (Qualtrics, Marketsight)
-* Survey design & expert interviewing
+* Survey design & interviewing
 * Statistical inference
 * EDA
 

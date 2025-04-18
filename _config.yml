@@ -22,12 +22,12 @@ repository               : "dilayns/dilayns.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Aldila-Yunus_2022 headshot"
+  avatar           : "Aldila-Yunus_2022 headshot.jpg"
   name             : "Aldila Yunus"
   pronouns         : # example
   bio              : "Industry Data & AI Researcher | MS Analytics Candidate | Tech Ethics Advocate"
   location         : "Boston, MA"
-  employer         : "Forrester Research | Georgia Tech"
+  employer         : "Forrester | Georgia Tech"
   uri              : # URL
   email            : "aldilayunus@proton.me" 
 
