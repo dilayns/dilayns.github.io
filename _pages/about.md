@@ -20,7 +20,7 @@ Coursework completed:
     Introduction to Analytics Modeling
     Business Fundamentals for Analytics
   
-Current semester:  
+Current semester coursework:  
   
     Data Analytics in Business
     Statistical Modeling and Regression Analysis
