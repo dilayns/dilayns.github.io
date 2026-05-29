@@ -17,18 +17,26 @@ Coursework completed:
   
     Introduction to Analytics Modeling
     Business Fundamentals for Analytics
+    Data Analytics in Business
+    Statistical Modeling and Regression Analysis
+    Human-Computer Interaction
+    Analysis of Unstructured Data
+    Computing for Data Analytics
+    Simulation
+    Data and Visual Analytics
+    
   
 Current semester coursework:  
   
-    Data Analytics in Business
-    Statistical Modeling and Regression Analysis
+    Computational Data Analysis
+    Practicum - Computational Track
   
 # My Story  
   
-My data journey formally began back in 2018 when I joined Forrester as a Research Associate on the Business Insights team. Within my first few weeks, I learned of an incident where an [autonomous vehicle killed a pedestrian](https://www.nytimes.com/2018/03/19/technology/uber-driverless-fatality.html) (we would go on to cite this case in subsequent research on responsible AI). This moment crystallized for me that AI is much more than conversational chatbots or automating processes; AI development without ethical oversight and consideration for human well-being has very real - sometimes even fatal - consequences. In addition to responsible AI, I've also developed interests in data culture and literacy, LLMs and generative models, and decision science.  
+My data journey formally began back in 2018 when I joined Forrester as a Research Associate on the Business Insights team. Within the first few weeks of starting, I learned of an incident where an [autonomous vehicle killed a pedestrian](https://www.nytimes.com/2018/03/19/technology/uber-driverless-fatality.html) (we would go on to cite this case in subsequent research on responsible AI). This moment crystallized for me that AI is much more than conversational chatbots or automating processes. AI development without ethical oversight and consideration for human well-being has very real - sometimes even fatal - consequences.
   
-Over the next seven years, I continued to build my career and nurture my passion for data as a consultant and researcher analyzing trends in the enterprise data and AI space, providing strategic guidance to data leaders. While I found fulfillment in helping my clients solve their problems, in time I came to realize an unfulfilled desire: to contribute more directly to building and deploying the solutions that impact people. Recognizing that I lacked the technical depth needed to pursue my goal, I enrolled in Georgia Tech's Analytics MS program to cultivate and fortify my data science skillset. Soon, I hope to explore opportunities as a data practitioner in areas like urban planning, community development, healthcare, or sustainability - domains where human-centered data solutions can create meaningful social impact.  
+Over the next seven years, I continued to build my career and nurture my passion for data as a consultant and researcher analyzing trends in the enterprise data and AI space, broadening my interests to include data culture and literacy, LLMs and generative models, and decision science. While I found intellectual fulfillment in my research, in time I came to realize an unfulfilled desire: to contribute more directly to building and deploying the solutions that impact people. Recognizing that I lacked the technical depth needed to pursue this goal, I enrolled in Georgia Tech's Analytics MS program to cultivate and fortify my data science skillset. Soon, I hope to explore opportunities as a data practitioner in areas like urban planning, community development, healthcare, or sustainability - domains where human-centered data solutions can create meaningful social impact.  
   
-Outside of work and school, I love exploring new hobbies and spending time with friends, family, and my three lovely cats (Ahri, Poppy, and Rumble). You'll probably find me knitting (or some other niche craft), at the local rock climbing gym, tackling the NYT puzzles (especially the crossword), on a wilderness excursion, or cooking and eating good food (in equal parts).  
+Outside of work and school, I love exploring new hobbies and spending time with friends, family, and my three cute cats (Ahri, Poppy, and Rumble). You'll probably find me knitting (or some other niche craft), at the local rock climbing gym, tackling the NYT puzzles (especially the crossword), on a wilderness excursion, or cooking and eating good food (in equal parts).  
   
 Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aldilayunus/)
